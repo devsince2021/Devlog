@@ -37,8 +37,8 @@ git, push, config, user.name, keychain access, github, push permission, 403, per
 <br />
 
 > ### **Keychain Access💆**
->
-> <br />
+
+<br />
 
 그래서 찾아낸 키워드가 바로 Keychain access<br />
 찾다 보니 예전에 이런 비슷한 케이스를 겪었던게 불현듯 기억났다..<br /> 처음 부트 캠프 초반이었는데, 자리 이동이 있어서 컴퓨터를 바꿨는데 기존 사용자 정보가 남아있어서 깃이 나를 거부했던 것을ㅋㅋㅋ
