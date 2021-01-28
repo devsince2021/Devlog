@@ -17,3 +17,5 @@
 ### Content list
 
 1.  왜 깃헙 repo에 푸쉬가 안되지? (article1)
+
+2.  왜 타입스크립트는 환영받는가(feat.타입과 에러) (article2)
